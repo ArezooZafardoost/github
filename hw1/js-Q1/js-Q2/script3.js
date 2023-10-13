@@ -1,0 +1,6 @@
+0(number)
+1(number)
+"1"(string)
+{name:arezoo} (Array)
+null(null)
+[1,1,2,5,"hello",{name:arezoo}] (object)
